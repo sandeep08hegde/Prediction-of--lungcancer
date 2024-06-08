@@ -1,4 +1,4 @@
-his project aims to leverage Convolutional Neural Networks (CNN) to enhance the early detection and diagnosis of lung cancer, a leading cause of cancer-related deaths. Traditional manual detection methods through High-Resolution Computed Tomography (HRCT) images are labor-intensive. Therefore, this project aims to develop a Computer-Aided Detection (CAD) system to assist radiologists in detecting lung nodules more efficiently.
+This project aims to leverage Convolutional Neural Networks (CNN) to enhance the early detection and diagnosis of lung cancer, a leading cause of cancer-related deaths. Traditional manual detection methods through High-Resolution Computed Tomography (HRCT) images are labor-intensive. Therefore, this project aims to develop a Computer-Aided Detection (CAD) system to assist radiologists in detecting lung nodules more efficiently.
 
 Table of Contents
 Introduction
